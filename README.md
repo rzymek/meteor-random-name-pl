@@ -1,0 +1,1 @@
+Based on https://gist.github.com/jdudek/732279
